@@ -1,0 +1,112 @@
+/* Navigation */
+.navbar{
+    background-color: #F99417;
+    height: 3rem;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 7px;
+    
+}
+
+.navbar-brand {
+    margin: 1% auto;
+    color: #222;
+    
+}
+
+/* Title */
+.title {
+    padding: 4%;
+    color: #fff;
+    font-weight: 400;
+    background-image: url(/images/honey4.jpg); opacity: 0.8;
+    
+    line-height: 2;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title-heading {
+    margin: 13% 3% 2% 3%;
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+.title-text {
+    margin: 2% 4% 4% 3%;
+    font-size: 1.5rem;
+}
+
+.title-btn {
+    background-color: #FFD39A;
+    margin: 2% 1% 13% 3%;
+}
+
+/* Carousels */
+.carousel-inner {
+    background-color: #222;
+    padding: 10% 20%;
+    line-height: 2;
+    color: #fff;
+    text-align: center;
+}
+
+/* Cards */
+.Card-Section {
+    background-color: #393E46;
+    padding: 5% 3% 10% 8%;
+}
+
+.card-header-text {
+    padding-bottom: 50px;
+    color: #fff;
+}
+
+.card-body {
+    background-color: #393E46;
+    color: #fff;
+    text-align: left;
+    padding: 20px 20px 20px 3px;
+}
+
+.btn {
+    background-color: #FFD39A;
+    margin-top: 6px;
+}
+
+#Forms {
+    background-color: #393E46;
+    padding: 5% 3% 10%;
+    color: #fff;
+    line-height: 2;
+}
+
+.form-paragraph {
+    padding-top: 3rem;
+    padding-left: 3rem;
+}
+
+.form1 {
+    display: inline-block;
+    padding-right: 6px;
+}
+
+.form-control {
+    background: #343A40;
+}
+
+.note {
+    background-color: #222;
+    color: #fff;
+    padding: 13% 15%;
+    text-align: center;
+    line-height: 2;
+}
+
+.footer-brand {
+    padding: 3rem;
+    padding-left: 6%;
+}
+
+.footer-text {
+    padding-bottom: 2rem;
+}
